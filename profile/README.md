@@ -11,4 +11,5 @@
   <hr />
 </div>
 
-Morph is a python-centric full-stack framework for building and deploying data apps. It allows you to build data apps with code, and then deploy them to the cloud. [Read the documentation to get started](https://docs.morph-data.io/docs/en/getting-started/quickstart).
+Morph is a python-centric full-stack framework for building and deploying AI apps. It allows you to build AI apps with code, and then deploy them to the 
+cloud securely. [Read the documentation to get started](https://docs.morph-data.io/docs/en/getting-started/quickstart).
