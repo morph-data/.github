@@ -2,7 +2,7 @@
 [![Morph](https://data.morphdb.io/assets/header.png)](https://www.morph-data.io)
 
 <div align="center">
-  <h1>Morph: Build AI Apps in a Scalable Python Framework and Deploy Securely</h1>
+  <h2>Morph: Build AI Apps in a Scalable Python Framework and Deploy Securely</h2>
   <br />
   <a href="https://www.morph-data.io/">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
